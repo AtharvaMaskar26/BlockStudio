@@ -80,8 +80,3 @@ truffle migrate
 npm start
 ```
 - Add account to Metamask to Sign In
-  
-# Team
-```
-Anuneet Anand | Adwit Singh Kochar | Pankil Kalra
-```
