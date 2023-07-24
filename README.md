@@ -71,7 +71,7 @@ git clone https://github.com/anuneetanand/blockstudio.git
 ```
 - Setup a workspace of blockstudio on Ganache
 - Connect Metamask to the Ganache workspace
-- Migrate the Contracts
+- Migrate the Contract
 ```
 truffle migrate
 ```
